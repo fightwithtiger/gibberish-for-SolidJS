@@ -1,0 +1,14 @@
+{
+  "name": "gibberish-for-solidjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dr": "pnpm --filter react-app run dev",
+    "ds": "pnpm --filter solid-app run dev",
+    "dv": "pnpm --filter vanilla-app run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
